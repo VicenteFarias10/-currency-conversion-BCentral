@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-cambio-divisas",
+  "version": "1.0.0",
+  "description": "Una aplicación para realizar conversiones de divisas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "vicente",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "expresss": "^0.0.0"
+  }
+}
